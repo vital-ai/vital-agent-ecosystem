@@ -22,6 +22,9 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-testing                 | [Link](https://github.com/vital-ai/vital-testing)               | Tests for Agent Ecosystem components |
 | vital-saas-admin              | [Link](https://github.com/vital-ai/vital-saas-admin)            | Agent Ecosystem Admin WebApp |
 | vital-saas-service-endpoint   | [Link](https://github.com/vital-ai/vital-saas-service-endpoint) | Agent Service Endpoint Implementation based on NGINX |
+| vital-saas-email-endpoint     | [Link](https://github.com/vital-ai/vital-saas-email-endpoint)   | Agent Ecosystem Endpoint for Email |
+| vital-saas-payment-endpoint   | [Link](https://github.com/vital-ai/vital-saas-payment-endpoint) | Agent Ecosystem Endpoint for Payment Processing |
+| vital-saas-slack-endpoint     | [Link](https://github.com/vital-ai/vital-saas-slack-endpoint)   | Agent Ecosystem Endpoint for Slack Integeration |
 | vital-saas-service            | [Link](https://github.com/vital-ai/vital-saas-service)          | Agent Ecosystem Service Infrastructure |
 | vital-vitalservice            | [Link](https://github.com/vital-ai/vital-vitalservice)          | VitalService Interfaces for Databases |
 | vital-vitalservice-sql        | [Link](https://github.com/vital-ai/vital-vitalservice-sql)      | VitalService Implementation via SQL |
