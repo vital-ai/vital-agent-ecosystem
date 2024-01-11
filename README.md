@@ -4,6 +4,8 @@
 
 The Vital Agent Ecosystem provides a collection of software components, knowledge models, and interfaces that together provide an A.I. Agent deployment and management platform.
 
+Commercial support of the Vital AI Agent Ecosystem is provided by Vital AI: [https://www.vital.ai](https://www.vital.ai)
+
 This repository provides documentation and resources for the Agent Ecosystem as a whole.
 
 Documentation is managed on the wiki, here: [Wiki](https://github.com/vital-ai/vital-agent-ecosystem/wiki).
