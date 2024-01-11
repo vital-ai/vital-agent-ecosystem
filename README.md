@@ -1,4 +1,7 @@
+<img src="assets/vitalai-logo-black-large.png" alt="Vital AI Logo" width="200">
+
 # vital-agent-ecosystem
+
 | Name                          | Link                                                           | Description              |
 |-------------------------------|----------------------------------------------------------------|--------------------------|
 | vitalhome-aimp                | [Link](https://github.com/vital-ai/vitalhome-aimp)              | Description |
