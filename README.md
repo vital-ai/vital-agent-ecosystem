@@ -4,34 +4,34 @@
 
 | Name                          | Link                                                           | Description              |
 |-------------------------------|----------------------------------------------------------------|--------------------------|
-| vitalhome-aimp                | [Link](https://github.com/vital-ai/vitalhome-aimp)              | Description |
-| vitalhome-knowledge-graph     | [Link](https://github.com/vital-ai/vitalhome-knowledge-graph)   | Description |
-| vital-client-python           | [Link](https://github.com/vital-ai/vital-client-python)         | Description |
-| vital-client-js               | [Link](https://github.com/vital-ai/vital-client-js)             | Description |
-| vital-client-groovy           | [Link](https://github.com/vital-ai/vital-client-groovy)         | Description |
-| vital-client-java             | [Link](https://github.com/vital-ai/vital-client-java)           | Description |
-| vital-vitalsigns              | [Link](https://github.com/vital-ai/vital-vitalsigns)            | Description |
-| vital-testing                 | [Link](https://github.com/vital-ai/vital-testing)               | Description |
-| vital-saas-service-endpoint   | [Link](https://github.com/vital-ai/vital-saas-service-endpoint) | Description |
-| vital-saas-admin              | [Link](https://github.com/vital-ai/vital-saas-admin)            | Description |
-| vital-saas-service            | [Link](https://github.com/vital-ai/vital-saas-service)          | Description |
-| vital-vitalservice            | [Link](https://github.com/vital-ai/vital-vitalservice)          | Description |
-| vital-vitalservice-sql        | [Link](https://github.com/vital-ai/vital-vitalservice-sql)      | Description |
-| vital-vitalservice-graph      | [Link](https://github.com/vital-ai/vital-vitalservice-graph)    | Description |
-| vital-vitalservice-vector     | [Link](https://github.com/vital-ai/vital-vitalservice-vector)   | Description |
-| vital-vitalservice-impl       | [Link](https://github.com/vital-ai/vital-vitalservice-impl)     | Description |
-| vital-prime                   | [Link](https://github.com/vital-ai/vital-prime)                 | Description |
-| vital-actor                   | [Link](https://github.com/vital-ai/vital-actor)                 | Description |
-| vital-processor               | [Link](https://github.com/vital-ai/vital-processor)             | Description |
-| vital-processor-agent         | [Link](https://github.com/vital-ai/vital-processor-agent)       | Description |
-| vital-agent-container         | [Link](https://github.com/vital-ai/vital-agent-container)       | Description |
-| vital-agent-container-java    | [Link](https://github.com/vital-ai/vital-agent-container-java)  | Description |
-| vital-agent-container-python  | [Link](https://github.com/vital-ai/vital-agent-container-python)| Description |
-| vital-agent-opengpt           | [Link](https://github.com/vital-ai/vital-agent-opengpt)         | Description |
-| vital-agent-template-python   | [Link](https://github.com/vital-ai/vital-agent-template-python) | Description |
-| vital-agent-sample-python     | [Link](https://github.com/vital-ai/vital-agent-sample-python)   | Description |
-| vital-agent-template-java     | [Link](https://github.com/vital-ai/vital-agent-template-java)   | Description |
-| vital-agent-sample-java       | [Link](https://github.com/vital-ai/vital-agent-sample-java)     | Description |
+| vitalhome-aimp                | [Link](https://github.com/vital-ai/vitalhome-aimp)              | Knowledge Model for Artificial Intelligence Messaging Protocol |
+| vitalhome-knowledge-graph     | [Link](https://github.com/vital-ai/vitalhome-knowledge-graph)   | Knowledge Model for core Knowledge Graph concepts |
+| vital-client-python           | [Link](https://github.com/vital-ai/vital-client-python)         | Python Client to access Agent Ecosystem |
+| vital-client-js               | [Link](https://github.com/vital-ai/vital-client-js)             | JavaScript Client to access Agent Ecosystem |
+| vital-client-groovy           | [Link](https://github.com/vital-ai/vital-client-groovy)         | Groovy (JVM) Client to access Agent Ecosystem |
+| vital-client-java             | [Link](https://github.com/vital-ai/vital-client-java)           | Java (JVM) Client to access Agent Ecosystem |
+| vital-vitalsigns              | [Link](https://github.com/vital-ai/vital-vitalsigns)            | Knowledge Model Runtime and Tools |
+| vital-testing                 | [Link](https://github.com/vital-ai/vital-testing)               | Tests for Agent Ecosystem components |
+| vital-saas-service-endpoint   | [Link](https://github.com/vital-ai/vital-saas-service-endpoint) | Agent Service Endpoint Implementation based on NGINX |
+| vital-saas-admin              | [Link](https://github.com/vital-ai/vital-saas-admin)            | Agent Ecosystem Admin WebApp |
+| vital-saas-service            | [Link](https://github.com/vital-ai/vital-saas-service)          | Agent Ecosystem Service Infrastructure |
+| vital-vitalservice            | [Link](https://github.com/vital-ai/vital-vitalservice)          | VitalService Interfaces |
+| vital-vitalservice-sql        | [Link](https://github.com/vital-ai/vital-vitalservice-sql)      | VitalService Implementation via SQL |
+| vital-vitalservice-graph      | [Link](https://github.com/vital-ai/vital-vitalservice-graph)    | VitalService Implementation via Graph Database (SPARQL) |
+| vital-vitalservice-vector     | [Link](https://github.com/vital-ai/vital-vitalservice-vector)   | VitalService Implementation for Vector Databases |
+| vital-vitalservice-impl       | [Link](https://github.com/vital-ai/vital-vitalservice-impl)     | VitalService Implementation Internals |
+| vital-prime                   | [Link](https://github.com/vital-ai/vital-prime)                 | Agent Ecosysem base infrastructure based on Vert.x |
+| vital-actor                   | [Link](https://github.com/vital-ai/vital-actor)                 | Agent Ecosystem Worker/Workflow Implementation |
+| vital-processor               | [Link](https://github.com/vital-ai/vital-processor)             | Agent Ecosystem Processor Implementation |
+| vital-processor-agent         | [Link](https://github.com/vital-ai/vital-processor-agent)       | Agent Ecosystem Processor Agent Implementation |
+| vital-agent-container         | [Link](https://github.com/vital-ai/vital-agent-container)       | Agent Container for Processor |
+| vital-agent-container-java    | [Link](https://github.com/vital-ai/vital-agent-container-java)  | Agent Container SDK for Java |
+| vital-agent-container-python  | [Link](https://github.com/vital-ai/vital-agent-container-python)| Agent Container SDK for Python |
+| vital-agent-opengpt           | [Link](https://github.com/vital-ai/vital-agent-opengpt)         | Agent Implementation based on OpenGPT |
+| vital-agent-template-python   | [Link](https://github.com/vital-ai/vital-agent-template-python) | Agent Template for Python Implementation |
+| vital-agent-sample-python     | [Link](https://github.com/vital-ai/vital-agent-sample-python)   | Agent Sample Implementation in Python |
+| vital-agent-template-java     | [Link](https://github.com/vital-ai/vital-agent-template-java)   | Agent Template for Java Implementation |
+| vital-agent-sample-java       | [Link](https://github.com/vital-ai/vital-agent-sample-java)     | Agent Sample Implementation in Java |
 
 
 
