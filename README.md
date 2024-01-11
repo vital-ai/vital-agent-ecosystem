@@ -6,6 +6,8 @@ The Vital Agent Ecosystem provides a collection of software components, knowledg
 
 This repository provides documentation and resources for the Agent Ecosystem as a whole.
 
+Documentation is managed on the wiki, here: [Wiki](https://github.com/vital-ai/vital-agent-ecosystem/wiki).
+
 The Agent Ecosystem is comprised of the individual components in the table below, which are maintained in separate repositories.
 
 | Name                          | Link                                                           | Description              |
