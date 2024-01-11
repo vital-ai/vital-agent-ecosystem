@@ -46,5 +46,6 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-agent-template-java     | [Link](https://github.com/vital-ai/vital-agent-template-java)   | Agent Template for Java Implementation |
 | vital-agent-sample-java       | [Link](https://github.com/vital-ai/vital-agent-sample-java)     | Agent Sample Implementation in Java |
 
+# Agent Ecosystem Architecture
 
-
+<img src="assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
