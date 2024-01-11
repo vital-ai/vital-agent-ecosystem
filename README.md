@@ -46,5 +46,12 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-agent-template-java     | [Link](https://github.com/vital-ai/vital-agent-template-java)   | Agent Template for Java Implementation |
 | vital-agent-sample-java       | [Link](https://github.com/vital-ai/vital-agent-sample-java)     | Agent Sample Implementation in Java |
 
+# Agent Ecosystem Architecture
 
+The following diagram shows the Ecosystem components in a deployment. Components are horizontally scalable.
 
+A Kafka Cluster, shown in the center of the diagram, is used for messaging across the deployment.
+
+The Processor is used to manage Agent Containers.
+
+<img src="assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
