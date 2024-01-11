@@ -18,8 +18,8 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-client-java             | [Link](https://github.com/vital-ai/vital-client-java)           | Java (JVM) Client to access Agent Ecosystem |
 | vital-vitalsigns              | [Link](https://github.com/vital-ai/vital-vitalsigns)            | Knowledge Model Runtime and Tools |
 | vital-testing                 | [Link](https://github.com/vital-ai/vital-testing)               | Tests for Agent Ecosystem components |
-| vital-saas-service-endpoint   | [Link](https://github.com/vital-ai/vital-saas-service-endpoint) | Agent Service Endpoint Implementation based on NGINX |
 | vital-saas-admin              | [Link](https://github.com/vital-ai/vital-saas-admin)            | Agent Ecosystem Admin WebApp |
+| vital-saas-service-endpoint   | [Link](https://github.com/vital-ai/vital-saas-service-endpoint) | Agent Service Endpoint Implementation based on NGINX |
 | vital-saas-service            | [Link](https://github.com/vital-ai/vital-saas-service)          | Agent Ecosystem Service Infrastructure |
 | vital-vitalservice            | [Link](https://github.com/vital-ai/vital-vitalservice)          | VitalService Interfaces |
 | vital-vitalservice-sql        | [Link](https://github.com/vital-ai/vital-vitalservice-sql)      | VitalService Implementation via SQL |
