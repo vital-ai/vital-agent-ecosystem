@@ -1,4 +1,4 @@
-<img src="assets/vitalai-logo-black-large.png" alt="Vital AI Logo" width="200">
+<img src="assets/vital-logo-black.png" alt="Vital AI Logo" width="200">
 
 # vital-agent-ecosystem
 
