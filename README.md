@@ -2,6 +2,12 @@
 
 # vital-agent-ecosystem
 
+The Vital Agent Ecosystem provides a collection of software components, knowledge models, and interfaces that together provide an A.I. Agent deployment and management platform.
+
+This repository provides documentation and resources for the Agent Ecosystem as a whole.
+
+The Agent Ecosystem is comprised of the individual components in the table below, which are maintained in separate repositories.
+
 | Name                          | Link                                                           | Description              |
 |-------------------------------|----------------------------------------------------------------|--------------------------|
 | vitalhome-aimp                | [Link](https://github.com/vital-ai/vitalhome-aimp)              | Knowledge Model for Artificial Intelligence Messaging Protocol |
