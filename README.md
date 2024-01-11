@@ -21,12 +21,12 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-saas-admin              | [Link](https://github.com/vital-ai/vital-saas-admin)            | Agent Ecosystem Admin WebApp |
 | vital-saas-service-endpoint   | [Link](https://github.com/vital-ai/vital-saas-service-endpoint) | Agent Service Endpoint Implementation based on NGINX |
 | vital-saas-service            | [Link](https://github.com/vital-ai/vital-saas-service)          | Agent Ecosystem Service Infrastructure |
-| vital-vitalservice            | [Link](https://github.com/vital-ai/vital-vitalservice)          | VitalService Interfaces |
+| vital-vitalservice            | [Link](https://github.com/vital-ai/vital-vitalservice)          | VitalService Interfaces for Databases |
 | vital-vitalservice-sql        | [Link](https://github.com/vital-ai/vital-vitalservice-sql)      | VitalService Implementation via SQL |
 | vital-vitalservice-graph      | [Link](https://github.com/vital-ai/vital-vitalservice-graph)    | VitalService Implementation via Graph Database (SPARQL) |
 | vital-vitalservice-vector     | [Link](https://github.com/vital-ai/vital-vitalservice-vector)   | VitalService Implementation for Vector Databases |
 | vital-vitalservice-impl       | [Link](https://github.com/vital-ai/vital-vitalservice-impl)     | VitalService Implementation Internals |
-| vital-prime                   | [Link](https://github.com/vital-ai/vital-prime)                 | Agent Ecosysem base infrastructure based on Vert.x |
+| vital-prime                   | [Link](https://github.com/vital-ai/vital-prime)                 | Agent Ecosysem base infrastructure server using Vert.x |
 | vital-actor                   | [Link](https://github.com/vital-ai/vital-actor)                 | Agent Ecosystem Worker/Workflow Implementation |
 | vital-processor               | [Link](https://github.com/vital-ai/vital-processor)             | Agent Ecosystem Processor Implementation |
 | vital-processor-agent         | [Link](https://github.com/vital-ai/vital-processor-agent)       | Agent Ecosystem Processor Agent Implementation |
