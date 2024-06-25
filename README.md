@@ -8,7 +8,7 @@ Commercial support of the Vital AI Agent Ecosystem is provided by Vital AI: [htt
 
 This repository provides documentation and resources for the Agent Ecosystem as a whole.
 
-Documentation is managed on the wiki, here: [Wiki](https://github.com/vital-ai/vital-agent-ecosystem/wiki).
+Documentation is managed here [https://docs.vital.ai/agent-ecosystem](https://docs.vital.ai/agent-ecosystem).
 
 The Agent Ecosystem is comprised of the individual components in the table below, which are maintained in separate repositories.
 
