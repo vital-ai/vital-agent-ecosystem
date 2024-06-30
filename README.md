@@ -10,6 +10,16 @@ This repository provides documentation and resources for the Agent Ecosystem as 
 
 Documentation is managed here: [https://docs.vital.ai/agent-ecosystem](https://docs.vital.ai/agent-ecosystem).
 
+# Agent Ecosystem Architecture
+
+The following diagram shows the Ecosystem components in a deployment. Components are horizontally scalable.
+
+A Kafka Cluster, shown in the center of the diagram, is used for messaging across the deployment.
+
+The Processor is used to manage Agent Containers.
+
+<img src="assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
+
 The Agent Ecosystem is comprised of the individual components in the table below, which are maintained in separate repositories.
 
 | Name | Link                                                             | Description                                                    |
@@ -51,13 +61,3 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-agent-template-python | [Link](https://github.com/vital-ai/vital-agent-template-python)  | Agent Template for Python Implementation                       |
 | vital-agent-sample-python | [Link](https://github.com/vital-ai/vital-agent-sample-python)    | Agent Sample Implementation in Python                          |
 
-
-# Agent Ecosystem Architecture
-
-The following diagram shows the Ecosystem components in a deployment. Components are horizontally scalable.
-
-A Kafka Cluster, shown in the center of the diagram, is used for messaging across the deployment.
-
-The Processor is used to manage Agent Containers.
-
-<img src="assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
