@@ -55,7 +55,7 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-actor | [Link](https://github.com/vital-ai/vital-actor)                  | Agent Ecosystem Worker/Workflow Implementation                 |
 | vital-processor | [Link](https://github.com/vital-ai/vital-processor)              | Agent Ecosystem Processor Implementation                       |
 | vital-processor-agent | [Link](https://github.com/vital-ai/vital-processor-agent)        | Agent Ecosystem Processor Agent Implementation                 |
-| vital-agent-container | [Link](https://github.com/vital-ai/vital-agent-container)        | Agent Container for Processor                                  |
+| vital-agent-container | [Link](https://github.com/vital-ai/vital-agent-container)        | Agent Container Specification                                  |
 | vital-agent-container-python | [Link](https://github.com/vital-ai/vital-agent-container-python) | Agent Container SDK for Python                                 |
 | vital-agent-opengpt | [Link](https://github.com/vital-ai/vital-agent-opengpt)          | Agent Implementation based on OpenGPT                          |
 | vital-agent-template-python | [Link](https://github.com/vital-ai/vital-agent-template-python)  | Agent Template for Python Implementation                       |
