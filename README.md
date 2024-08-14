@@ -30,6 +30,7 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | kgraphservice                | [Link](https://github.com/vital-ai/kgraphservice)                | Knowledge Graph Service in Python                              |
 | kgraphnexus                  | [Link](https://www.kgraphnexus.com/)                             | Knowledge Graph Visualization Desktop App                      |
 | kgraphservice                | [Link](https://github.com/vital-ai/kgraphservice)                | Knowledge Graph Service (Python Library)                       |
+| kgrapplanner                 | [Link](https://github.com/vital-ai/kgraphplanner)                | Knowledge Graph Planner (Python Library)                       |
 | kgraphmemory                 | [Link](https://github.com/vital-ai/kgraphmemory)                 | Knowledge Graph Memory (Python Library)                        |
 | kgraphgen                    | [Link](https://github.com/vital-ai/kgraphgen)                    | Knowledge Graph Generation (Python Library)                    |
 | vital-extract-service        | [Link](https://github.com/vital-ai/vital-extract-service-python) | Knowledge Graph Extraction (Python Service)                    |
@@ -61,4 +62,5 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vital-agent-opengpt          | [Link](https://github.com/vital-ai/vital-agent-opengpt)          | Agent Implementation based on OpenGPT                          |
 | vital-agent-template-python  | [Link](https://github.com/vital-ai/vital-agent-template-python)  | Agent Template for Python Implementation                       |
 | vital-agent-sample-python    | [Link](https://github.com/vital-ai/vital-agent-sample-python)    | Agent Sample Implementation in Python                          |
+| vital-agent-kg-example       | [Link](https://github.com/vital-ai/vital-agent-kg-example)       | Agent KG Example in Python                                     |
 
