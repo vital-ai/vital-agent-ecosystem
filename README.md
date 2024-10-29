@@ -27,9 +27,8 @@ The Agent Ecosystem is comprised of the individual components in the table below
 | vitalhome-aimp               | [Link](https://github.com/vital-ai/vitalhome-aimp)               | Knowledge Model for Artificial Intelligence Messaging Protocol |
 | vital-vitalsigns-python      | [Link](https://github.com/vital-ai/vital-vitalsigns-python)      | Knowledge Model Runtime and Tools (Python)                     |
 | vitalhome-haley              | [Link](https://github.com/vital-ai/vitalhome-haley)              | Knowledge Model (Haley-KG) for core Knowledge Graph concepts   |
-| kgraphservice                | [Link](https://github.com/vital-ai/kgraphservice)                | Knowledge Graph Service in Python                              |
-| kgraphnexus                  | [Link](https://www.kgraphnexus.com/)                             | Knowledge Graph Visualization Desktop App                      |
 | kgraphservice                | [Link](https://github.com/vital-ai/kgraphservice)                | Knowledge Graph Service (Python Library)                       |
+| kgraphnexus                  | [Link](https://www.kgraphnexus.com/)                             | Knowledge Graph Visualization Desktop App                      |
 | kgrapplanner                 | [Link](https://github.com/vital-ai/kgraphplanner)                | Knowledge Graph Planner (Python Library)                       |
 | kgraphmemory                 | [Link](https://github.com/vital-ai/kgraphmemory)                 | Knowledge Graph Memory (Python Library)                        |
 | kgraphgen                    | [Link](https://github.com/vital-ai/kgraphgen)                    | Knowledge Graph Generation (Python Library)                    |
